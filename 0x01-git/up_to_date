@@ -9,3 +9,4 @@
 9.git push
 10.git push origin branch_name
 11.git status
+12.git pull
